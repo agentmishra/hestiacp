@@ -348,7 +348,7 @@ html {
  */
 body {
   margin: 0;
-  background-color: #31363e;
+  background-color: #232126;
   color: #222;
 }
 
@@ -770,8 +770,7 @@ body {
 .body-login, .body-reset {
   height: auto;
   padding-top: 10%;
-  background-color: #336699;
-  background: linear-gradient(to bottom, rgba(44,92,147,1) 0%,rgba(72,136,186,1) 40%,rgba(127,186,232,1) 100%);
+  background-color: #1c1b1e;
 }
 
 a {
@@ -850,8 +849,7 @@ a {
 }
 
 .l-header {
-  background: linear-gradient(to bottom, #273059 0%,#354766 64%,#274060 100%); 
-  background-color: #5070a6;
+  background: #423f46;
   overflow: hidden;
   position: fixed;
   width: 100%;
@@ -1577,7 +1575,7 @@ div.l-content > div.l-separator:nth-of-type(4) {
 
 .table-header {
   font-size: 0.95em !important;
-  background: linear-gradient(to bottom, rgba(247,247,247,1) 0%,rgba(255,255,255,1) 100%) !important;
+
   border-left: 1px solid #40434a !important;
   border-right: 1px solid #40434a !important;
   border-bottom: 1px solid #40434a !important;
