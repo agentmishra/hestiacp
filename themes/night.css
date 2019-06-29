@@ -591,7 +591,7 @@ button,
 select {
   text-transform: none;
   /*color: transparent !important;*/
-  text-shadow: 0 0 0 #4b4b4b !important;
+  text-shadow: 0 0 0 #999999 !important;
 }
 
 /**
@@ -1361,10 +1361,10 @@ div.l-content > div.l-separator:nth-of-type(4) {
   padding-left: 10px;
 }
 .l-sort-toolbar .sort-by:hover {
-  color: #4b4b4b;
+  color: #999999;
 }
 .l-sort-toolbar .sort-by:hover b {
-  color: #4b4b4b;
+  color: #999999;
 }
 .l-sort-toolbar .sort-by:active {
   color: #55c9c0;
@@ -1380,7 +1380,7 @@ div.l-content > div.l-separator:nth-of-type(4) {
 }
 
 .l-sort-toolbar .toggle-all:hover {
-  color: #4b4b4b;
+  color: #999999;
 }
 .l-sort-toolbar .toggle-all:active {
   color: #55c9c0;
@@ -1658,7 +1658,7 @@ div.l-content > div.l-separator:nth-of-type(4) {
 
 .units .l-unit.l-unit--outdated {
   background-color: #ffcaca;
-  color: #4b4b4b;
+  color: #999999;
   border-left: 5px solid #ff6f6f;
   border-bottom: 1px solid #fff;
 }
@@ -1674,7 +1674,7 @@ div.l-content > div.l-separator:nth-of-type(4) {
   color: #333;
 }
 .l-unit--outdated b {
-  color: #4b4b4b;
+  color: #999999;
 }
 
 .l-unit--suspended .l-percent {
@@ -2373,7 +2373,7 @@ body.mobile .l-icon-shortcuts {
 
 .login-box td,
 .data td {
-  color: #4b4b4b;
+  color: #999999;
   font-size: 0.85rem;
   padding-bottom: 3px;
   font-weight: 600;
@@ -2473,7 +2473,7 @@ label:hover {
   appearance:none;
   -moz-appearance:none;
   -webkit-appearance:none;
-  text-shadow: 0 0 0 #4b4b4b;
+  text-shadow: 0 0 0 #999999;
   box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
 }
 
@@ -2799,8 +2799,8 @@ a.button.cancel {
 
 .ui-dialog button.cancel {
   color: #000;
-  border: 1px solid #4b4b4b;
-  background-color: #4b4b4b;
+  border: 1px solid #999999;
+  background-color: #999999;
 }
 /*
 .ui-dialog button.cancel:hover {
@@ -2841,10 +2841,10 @@ a.button.cancel {
   color: #fff;
 }
 .ui-button:hover span {
-  color: #4b4b4b !important;
+  color: #999999 !important;
 }
 .ui-button:active span {
-  color: #4b4b4b;
+  color: #999999;
 }
 .ui-button.cancel span {
   color: #777;
@@ -3001,7 +3001,7 @@ a.button.cancel {
 
 .l-unit.selected {
   background-color: #fefba7;
-  color: #4b4b4b;
+  color: #999999;
   border-bottom: 1px solid #c0b990;
   box-shadow: 0px 2px 10px rgba(150,150,150,0.20);
   text-shadow: 0px 1px rgba(255,255,255,0.5);
@@ -3011,14 +3011,14 @@ a.button.cancel {
 
 .l-unit.selected:hover {
   background-color: #fefccd;
-  color: #4b4b4b;
+  color: #999999;
   box-shadow: 0px 2px 14px rgba(150,150,150,0.25);
   text-shadow: 0px 1px rgba(255,255,255,0.6);
 }
 
 .l-unit.selected b,
 .l-unit.selected strong {
-  color: #4b4b4b;
+  color: #999999;
 }
 
 
@@ -3471,11 +3471,11 @@ form#vstobjects.suspended {
 }
 .description a.purchase:hover {
   background-color: #54a6e5;
-  color: #4b4b4b;
+  color: #999999;
 }
 .description a.purchase:active {
   background-color: #54a6e5;
-  color: #4b4b4b;
+  color: #999999;
 }
 
 .description a.cancel {
