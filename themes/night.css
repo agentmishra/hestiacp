@@ -852,15 +852,14 @@ a {
 .l-header {
   background: linear-gradient(to bottom, #273059 0%,#354766 64%,#274060 100%); 
   background-color: #5070a6;
-  border-bottom: 1px solid rgba(255,255,255,0.95);
   overflow: hidden;
   position: fixed;
   width: 100%;
   z-index: 900;
   height: 38px;
   text-shadow: 1px 1px rgba(0,0,0,0.5);
-  box-shadow: 0px 8px 20px rgba(120,120,120,0.35);
-  border-bottom: 1px solid #fff;
+  box-shadow: 0px 8px 20px rgba(40,40,40,0.35);
+  border-bottom: 1px solid rgba(255,255,255,0.75);
 }
 
 .l-header a {
